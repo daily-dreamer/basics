@@ -1,0 +1,2 @@
+# basics
+To learn git
